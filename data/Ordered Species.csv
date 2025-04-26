@@ -1,0 +1,63 @@
+Group No.,Group name,Higher Group
+1,Minke whales,Mammal
+2,Harbour Porpoise,Mammal
+3,White-beaked dolphin,Mammal
+4,Grey Seal,Mammal
+5,Harbour Seal,Mammal
+6,Auks,Seabird
+7,Fulmars and Petrels,Seabird
+8,Gulls,Seabird
+9,Gannets,Seabird
+10,Elasmobranchs,Not
+11,Cod (Adult),Not
+12,"Cod (Juvenile, 0-2; 0-40 cm)",Not
+13,Whiting (Adult),Not
+14,Whiting (Juvenile 0-1; 0-20 cm),Not
+15,Haddock (Adult),Not
+16,Haddock (Juvenile 0-1; 0-20 cm),Not
+17,Saithe (Adult),Not
+18,Saithe (Juvenile 0-3; 0-40 cm),Not
+19,Hake,Not
+20,Other piscivorous fishes,Not
+21,Other planktivorous fishes,Not
+22,Norway Pout,Not
+23,Herring (Adult),Not
+24,Herring (Juvenile 0-1),Not
+25,Sprat (Adult),Not
+26,Sprat (Juvenile 0-2; 0-10 cm),Not
+27,Horse Mackerel,Not
+28,Mackerel,Not
+29,Sandeel (Adult),Not
+30,Sandeel (Juvenile 0-1; 0-10cm),Not
+31,Other flatfishes,Not
+32,Dab,Not
+33,Turbot,Not
+34,Plaice,Not
+35,Sole,Not
+36,Larval fishes,Not
+37,Cephalopods,Not
+38,Sessile epifauna,Not
+39,Echinoderms,Not
+40,Norway Lobster,Not
+41,Other Benthic Invertebrates,Not
+42,Carnivorous zooplankton,Not
+43,Herbivorous zooplankton,Not
+44,Microzooplankton,Not
+45,Gelatinous zooplankton,Not
+46,Benthic crustaceans,Not
+47,Benthic meiofauna,Not
+48,Phytoplankton,Not
+49,Fishing discards,Not
+50,Detritus,Not
+50,Beam Trawl,Fishery
+50,Demersal Trawl & Seine,Fishery
+50,Sandeel Trawl,Fishery
+50,Pelagic Trawl,Fishery
+50,Drift and Fixed Nets,Fishery
+50,Nephrops Trawl,Fishery
+50,Hooked Gears,Fishery
+50,Shrimp Trawls,Fishery
+50,Dredge,Fishery
+50,Pots,Fishery
+50,Shellfish Gear,Fishery
+50,Other Gear,Fishery

@@ -1,0 +1,49 @@
+Number,Group name,Species,Macrogroup,Species
+1,Minke whales,Minke.whales,Marine Mammals,Minke whales
+2,Harbour porpoise,Harbour.porpoise,Marine Mammals,Harbour Porpoise
+3,White-beaked dolphin,White.beaked.dolphin,Marine Mammals,White-beaked dolphin
+4,Grey seal,Grey.seal,Marine Mammals,Grey Seal
+5,Harbour seal,Harbour.seal,Marine Mammals,Harbour Seal
+6,Auks,Auks,Seabirds,Auks
+7,Fulmars,Fulmars,Seabirds,Fulmars and Petrels
+8,Gulls,Gulls,Seabirds,Gulls
+9,Gannets,Gannets,Seabirds,Gannets
+10,Elasmobranchs,Elasmobranchs,,Elasmobranchs
+11,Cod (A),Cod..A.,Groundfishes,Cod (A)
+12,Cod (J),Cod..J.,Groundfishes,Cod (J)
+13,Whiting (A),Whiting..A.,Groundfishes,Whiting (A)
+14,Whiting (J),Whiting..J.,Groundfishes,Whiting (J)
+15,Haddock (A),Haddock..A.,Groundfishes,Haddock (A)
+16,Haddock (J),Haddock..J.,Groundfishes,Haddock (J)
+17,Saithe (A),Saithe..A.,Groundfishes,Saithe (A)
+18,Saithe (J),Saithe..J.,Groundfishes,Saithe (J)
+19,Hake,Hake,Groundfishes,Hake
+20,Other piscivorous fishes,Other.piscivorous.fishes,,Other piscivorous fishes
+21,Other planktivorous fishes,Other.planktivorous.fishes,,Other planktivorous fishes
+22,Norway pout,Norway.pout,Groundfishes,Norway Pout
+23,Herring (A),Herring..A.,Pelagic fishes,Herring (A)
+24,Herring (J),Herring..J.,Pelagic fishes,Herring (J)
+25,Sprat,Sprat,Pelagic fishes,Sprat
+26,Horse mackerel,Horse.mackerel,Pelagic fishes,Horse Mackerel
+27,Mackerel,Mackerel,Pelagic fishes,Mackerel
+28,Sandeel,Sandeel,Groundfishes,Sandeel
+29,Other flatfishes,Other.flatfishes,Flatfishes,Other flatfishes
+30,Dab,Dab,Flatfishes,Dab
+31,Turbot,Turbot,Flatfishes,Turbot
+32,Plaice,Plaice,Flatfishes,Plaice
+33,Sole,Sole,Flatfishes,Sole
+34,Larval fishes,Larval.fishes,,Larval fishes
+35,Cephalopods,Cephalopods,Invertebrates,Cephalopods
+36,Sessile epifauna,Sessile.epifauna,Invertebrates,Sessile epifauna
+37,Echinoderms,Echinoderms,Invertebrates,Echinoderms
+38,Norway lobster,Norway.lobster,Invertebrates,Norway Lobster
+39,Other benthic invertebrates,Other.benthic.invertebrates,Invertebrates,Other Benthic Invertebrates
+40,Carnivorous zooplankon,Carnivorous.zooplankon,Invertebrates,Carnivorous zooplankton
+41,Herbivorous zooplankton,Herbivorous.zooplankton,Invertebrates,Herbivorous zooplankton
+42,Microzooplankton,Microzooplankton,Invertebrates,Microzooplankton
+43,Gelatinous zooplankton,Gelatinous.zooplankton,Invertebrates,Gelatinous zooplankton
+44,Benthic crustaceans,Benthic.crustaceans,Invertebrates,Benthic crustaceans
+45,Benthic meiofauna,Benthic.meiofauna,Invertebrates,Benthic meiofauna
+46,Phytoplankton,Phytoplankton,,Phytoplankton
+47,Fishing discards,Fishing.discards,,Fishing discards
+48,Detritus,Detritus,,Detritus
